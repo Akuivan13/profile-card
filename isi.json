@@ -1,0 +1,39 @@
+{
+    "buttons": [
+        {
+            "title": "Github",
+            "link": "#",
+            "icon": "fab fa-github"
+        },
+        {
+            "title": "LinkedIn",
+            "link": "#",
+            "icon": "fab fa-linkedin"
+        },
+        {
+            "title": "Twitter",
+            "link": "#",
+            "icon": "fab fa-twitter"
+        },
+        {
+            "title": "Instagram",
+            "link": "#",
+            "icon": "fab fa-instagram"
+        },
+        {
+            "title": "Telegram",
+            "link": "#",
+            "icon": "fab fa-telegram"
+        },
+        {
+            "title": "Email",
+            "link": "#",
+            "icon": "fas fa-envelope"
+        },
+        {
+            "title": "WhatsApp",
+            "link": "#",
+            "icon": "fab fa-whatsapp"
+        }
+    ]
+}
